@@ -1,2 +1,2 @@
-# notepad1
-notepad
+# Notepad
+simple notepad project
